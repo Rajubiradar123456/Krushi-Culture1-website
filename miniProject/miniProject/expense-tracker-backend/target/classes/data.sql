@@ -1,0 +1,2 @@
+INSERT INTO expense (amount, category, date, description) VALUES (100, 'Food', '2024-06-01', 'Lunch');
+INSERT INTO expense (amount, category, date, description) VALUES (50, 'Transport', '2024-06-02', 'Bus fare');
